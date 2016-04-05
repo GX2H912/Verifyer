@@ -1,0 +1,7 @@
+name: MandarsAutoVerifyer
+main: me.firecrystal12.Verify
+version: 1.0
+commands:
+   verify:
+      description: For imposters who join the server.
+      usage: /<command>
